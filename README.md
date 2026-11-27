@@ -5,7 +5,7 @@ I'm an 8th grader who likes building websites, solving programming challenges, a
 ### What I'm working on
 
 - 🐕 **DogeHub** — a web hub I'm building for games, movies, AI tools, and web browsing.
-- 💻 **Youth STEAM Initiative** — I help build our website and work with other students on tech projects for our local community.
+- 💻 **Youth STEAM Initiative** — I help build our website and work with other students on tech projects for our local community (youthsteaminitiative.org).
 - 🎻 **Whispers of Winter** — an original piece I'm writing for string orchestra.
 
 ### What I build with
